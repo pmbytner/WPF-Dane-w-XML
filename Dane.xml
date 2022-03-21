@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pojazdy>
+  <Rodzaj
+    Nazwa="Samochody"
+    Opis="Pojazd ziemny czterokołowy"
+    >
+    <Marka
+      Nazwa="Audi"
+      Kraj="Niemcy"
+      >
+      <Model
+        Nazwa="XY"
+        Klasa=""
+        >
+        <Wariant
+          Nazwa=""
+          PojemnośćSilnika=""
+          />
+      </Model>
+    </Marka>
+    <Marka
+      Nazwa="BMW"
+      Kraj="Niemcy"
+      >
+
+    </Marka>
+    <Marka
+      Nazwa="Ford"
+      Kraj="USA"
+      >
+
+    </Marka>
+    <Marka
+      Nazwa="Nissan"
+      Kraj="Japonia"
+      >
+
+    </Marka>
+  </Rodzaj>
+  <Rodzaj
+    Nazwa="Motocykle"
+    Opis="Pojazd ziemny czterokołowy"
+    ></Rodzaj>
+  <Rodzaj
+    Nazwa="Samoloty"
+    Opis="Pojazd ziemny czterokołowy"
+    ></Rodzaj>
+</Pojazdy>
